@@ -47,6 +47,9 @@ This project optimizes surveillance systems in smart urban environments by propo
 ### UMBC - A Systematic Study on Object Recognition Using mmWave Radar
 This project describes feasibility studies and experiments on mm-wave object recognition methodology and analyzes performance under varying lighting conditions, heights, and object types. With 95% accuracy, data-driven methods were used to correctly identify five different objects from the mmWave signal.
 
+
+
+
 ### UMBC - GNB: Graph-based Gaussian naive Bayes intrusion detection system for CAN bus. 
 A Graph-Based Gaussian Naive Bayes has been proposed for the CAN Bus Intrusion Detection System. Individual attacks such as denial of service (DoS), fuzzy, spoofing, diagnostic, suspension, and replay have been identified by previous researchers. Without changing the protocol, we've made a generic algorithm that can find any CAN-monitoring attack, including a mix of DOS, fuzzy, spoofing, replay, diagnostic, and suspension attacks. The proposed methodology has 100%, 99.85%, 99.92%, 100%, 99.92%, 97.75%, and 99.57% detection accuracy considering DoS, diagnostic, fuzzing CAN ID, fuzzing payload, replay, suspension, and mixed attacks, respectively. 
 

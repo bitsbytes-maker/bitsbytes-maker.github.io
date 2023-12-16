@@ -1,11 +1,14 @@
-# Data Scientist
+# PhD Student
+## EDUCATION
+
+- Ph.D. Student (G.R.A. in iHARP), Information Systems | University of Maryland, Baltimore County (_Spring 2022 - Present)
+
+- BSC in Computer Science and Engineering | Bangladesh University of Engineering and Technology (2012 - 2017)
+
+
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**

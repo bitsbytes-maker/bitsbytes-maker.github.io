@@ -20,7 +20,7 @@ Python, R, C, C++, Java, C#, MATLAB, SQL, JavaScript, PHP, Shell script, Verilog
 
 ### Machine Learning Tools
 
-PyTorch, TensorFlow, scikit-learn, Keras
+PyTorch, TensorFlow, Scikit-learn, Keras
 
 ### Software & Tools
 
@@ -38,15 +38,37 @@ Linux, ROS, Raspberry Pi 4 Model B, Windows, Unix, Android
 
 ### UMBC - Advancing Understanding of Anomalous Melt Events over the Antarctic Sea Ice
 
-...
+This study aims to investigate anomalous melting events in the Antarctic Sea ice using a novel approach,
+which involves applying a convolutional neural network (CNN) to analyze satellite images. These
+melting events, which resulted in a reduction of sea ice extent, started at the outer boundary in August
+and expanded across the entire region by February of the next year. We count 2000-2023 years of
+satellite images for this analysis. The traditional CNN approach is less effective for dealing with the
+negative values associated with this sea ice loss, so a new concept of negative max-pooling in CNN is
+introduced to address this issue. To complement the CNN findings, a grid-wise matrix profile (MPF)
+method is used to identify spatiotemporal discord events in sea ice concentration data. The results
+confirm the impact of anomalous melting on specific Antarctic regions, particularly the Weddell and
+Ross Sea areas, which experienced the most significant reduction in sea ice extent. This research sheds
+light on the dynamics of sea ice retreat and emphasizes the need for further investigation into the
+anomalous melting process for improved predictions.
+
 
 ### UMBC - HeteroEdge: Addressing Asymmetry in Heterogeneous Collaborative Autonomous Systems
 
-...
+This project optimizes surveillance systems in smart urban environments by proposing a self-adaptive
+framework for Unmanned Ground Vehicles (UGVs) and NVIDIA Jetson devices. It efficiently manages
+data processing and model inference by compressing frames, identifying similarities, and offloading
+computation. The approach significantly reduces latency and operation time, improving the overall
+efficiency of the system. Evaluations show a significant reduction in latency and operation time when
+offloading 70% of the data to the auxiliary node compared to the baseline configuration.
 
 ### UMBC - A Systematic Study on Object Recognition Using mmWave Radar
+This project describes feasibility studies and experiments on mm-wave object recognition methodology
+and analyzes performance under varying lighting conditions, heights, and object types. With 95%
+accuracy, data-driven methods were used to correctly identify five different objects from the mmWave
+signal.
 
-...
+### UMBC - GNB: Graph-based Gaussian naive Bayes intrusion detection system for CAN bus. 
+A Graph-Based Gaussian Naive Bayes has been proposed for the CAN Bus Intrusion Detection System. Individual attacks such as denial of service (DoS), fuzzy, spoofing, diagnostic, suspension, and replay have been identified by previous researchers. Without changing the protocol, we've made a generic algorithm that can find any CAN-monitoring attack, including a mix of DOS, fuzzy, spoofing, replay, diagnostic, and suspension attacks. The proposed methodology has 100\%, 99.85\%, 99.92\%, 100\%, 99.92\%, 97.75\%, and 99.57\% detection accuracy considering DoS, diagnostic, fuzzing CAN ID, fuzzing payload, replay, suspension, and mixed attacks, respectively. 
 
 ## RELEVANT COURSES
 

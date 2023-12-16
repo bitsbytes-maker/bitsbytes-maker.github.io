@@ -3,7 +3,7 @@
 
 - Ph.D. Student (G.R.A. in iHARP), Information Systems | University of Maryland, Baltimore County (_Spring 2022 - Present)
 
-- BSC in Computer Science and Engineering | Bangladesh University of Engineering and Technology (2012 - 2017)
+- BSc in Computer Science and Engineering | Bangladesh University of Engineering and Technology (2012 - 2017)
 
 
 

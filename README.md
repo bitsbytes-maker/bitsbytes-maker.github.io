@@ -76,6 +76,10 @@ ix) Compiler
 - **Software Developer**  
   Codecrafters International Limited (May 2017 - October 2017)
 
+## Online Tutorial
+1. [Canonical Correlation Analysis](https://sites.google.com/umbc.edu/cca/home)
+2. [Temporal signature detection among different motor tasks](https://sites.google.com/umbc.edu/neuralengineeringandinstructio/home)
+
 ## LIST OF PUBLICATIONS
 
 1. "Advancing understanding of Anomalous Melt Events over the Antarctic Sea Ice." (Targeting journal with 23 years of satellite images)

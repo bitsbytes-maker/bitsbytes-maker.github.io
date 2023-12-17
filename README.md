@@ -16,7 +16,7 @@
 
 ### Programming Languages
 
-Python, R, C, C++, Java, C#, MATLAB, SQL, JavaScript, PHP, Shell script, Verilog, VHDL, Assembly Language
+Python, C, C++, Java, R, C#, MATLAB, SQL, JavaScript, PHP, Shell script, Verilog, VHDL, Assembly Language
 
 ### Machine Learning Tools
 

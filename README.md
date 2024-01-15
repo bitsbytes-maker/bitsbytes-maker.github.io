@@ -6,10 +6,10 @@
 
 ## EDUCATION
 
-- **Ph.D. Student (G.R.A. in iHARP)**  
+- **Ph.D. Student in Information Systems (G.R.A. in [iHARP](https://iharp.umbc.edu/people/ra/))**  
   University of Maryland, Baltimore County (Spring 2022 - Present)
 
-- **MS**
+- **MS in Information Systems**
   University of Maryland, Baltimore County (Spring 2022 - Spring 2024)
 
 - **BSc in Computer Science and Engineering**  
@@ -49,7 +49,7 @@ This project optimizes surveillance systems in smart urban environments by propo
 
 ### UMBC - A Systematic Study on Object Recognition Using mmWave Radar
 
-This project describes feasibility studies and experiments on mm-wave object recognition methodology and analyzes performance under varying lighting conditions, heights, and object types. With 95% accuracy, data-driven methods were used to correctly identify five different objects from the mmWave signal.
+This project describes feasibility studies and experiments on mm-wave object recognition methodology and analyzes performance under varying lighting or environmental conditions, heights, and object types. With 95% accuracy, data-driven methods were used to correctly identify five different objects from the mmWave signal.
 
 ### UMBC - GGNB: Graph-based Gaussian naive Bayes intrusion detection system for CAN bus.
 

@@ -9,6 +9,9 @@
 - **Ph.D. Student (G.R.A. in iHARP)**  
   University of Maryland, Baltimore County (Spring 2022 - Present)
 
+- **MS**
+  University of Maryland, Baltimore County (Spring 2022 - Spring 2024)
+
 - **BSc in Computer Science and Engineering**  
   Bangladesh University of Engineering and Technology (2012 - 2017)
 

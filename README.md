@@ -35,7 +35,7 @@ Xilinx, NS2, Cisco Packet Tracer, Cadence Virtuoso, Pspice Proteus
 
 ### Operating Systems
 
-Linux, ROS, Raspberry Pi 4 Model B, Windows, Unix, Android
+Linux, macOS, ROS, Raspberry Pi 4 Model B, Windows, Unix, Android
 
 ## PROJECT EXPERIENCE
 

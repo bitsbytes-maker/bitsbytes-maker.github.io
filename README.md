@@ -79,6 +79,25 @@ ix) Compiler
 - **Software Developer**  
   Codecrafters International Limited (May 2017 - October 2017)
 
+
+## TEACHING EXPERIENCE
+
+# Teaching Portfolio
+
+## University of Maryland, Baltimore County (UMBC)
+### IS 620 Advanced Database Projects
+### CMPE 212 Principles of Digital Design
+### CMPE 310 Systems Design and Programming
+### CMPE 311 C Programming and Embedded Systems
+
+
+## Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Bangladesh
+
+### Java Programming Language
+### Digital System Design
+### Discrete Mathematics
+
+
 ## Online Tutorial
 1. [Canonical Correlation Analysis](https://sites.google.com/umbc.edu/cca/home)
 2. [Temporal Signature Detection among Different Motor Tasks](https://sites.google.com/umbc.edu/neuralengineeringandinstructio/home)

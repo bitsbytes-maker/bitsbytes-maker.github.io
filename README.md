@@ -82,20 +82,20 @@ ix) Compiler
 
 ## TEACHING EXPERIENCE
 
-# Teaching Portfolio
-
-## University of Maryland, Baltimore County (UMBC)
-### IS 620 Advanced Database Projects
-### CMPE 212 Principles of Digital Design
-### CMPE 310 Systems Design and Programming
-### CMPE 311 C Programming and Embedded Systems
+**University of Maryland, Baltimore County (UMBC)**
+- IS 620 Advanced Database Projects
+- CMPE 212 Principles of Digital Design
+- CMPE 310 Systems Design and Programming
+- CMPE 311 C Programming and Embedded Systems
 
 
-## Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Bangladesh
+**Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Bangladesh**
 
-### Java Programming Language
-### Digital System Design
-### Discrete Mathematics
+- Java Programming Language
+- Digital System Design
+- Discrete Mathematics
+- Algorithms and Data Structures
+- Computer Fundamentals
 
 
 ## Online Tutorial

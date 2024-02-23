@@ -93,6 +93,7 @@ ix) Compiler
 
 - Java Programming Language
 - Digital System Design
+- Introduction to Database Systems
 - Discrete Mathematics
 - Algorithms and Data Structures
 - Computer Fundamentals

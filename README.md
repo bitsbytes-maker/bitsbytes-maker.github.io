@@ -92,11 +92,12 @@ ix) Compiler
 **Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Bangladesh**
 
 - Java Programming Language
-- Digital System Design
 - Introduction to Database Systems
 - Discrete Mathematics
+- Systems Modeling and Simulation
 - Algorithms and Data Structures
 - Computer Fundamentals
+- Digital System Design
 
 
 ## Online Tutorial

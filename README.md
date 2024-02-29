@@ -68,16 +68,6 @@ vii) Statistical Learning for Data Analysis
 viii) Advanced Computer Architecture  
 ix) Compiler
 
-## JOB EXPERIENCE
-
-- **Assistant Professor**  
-  Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Bangladesh (June 2022 - Present)
-
-- **Lecturer**  
-  Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Bangladesh (December 2017 - June 2022)
-
-- **Software Developer**  
-  Codecrafters International Limited (May 2017 - October 2017)
 
 
 ## TEACHING EXPERIENCE
@@ -98,6 +88,20 @@ ix) Compiler
 - Algorithms and Data Structures
 - Computer Fundamentals
 - Digital System Design
+
+## JOB EXPERIENCE
+
+- **Assistant Professor**  
+  Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Bangladesh (June 2022 - Present)
+
+- **Lecturer**  
+  Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Bangladesh (December 2017 - June 2022)
+
+- **Software Developer**  
+  Codecrafters International Limited (May 2017 - October 2017)
+
+
+
 
 
 ## Online Tutorial
